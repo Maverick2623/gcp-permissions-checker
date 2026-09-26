@@ -1,6 +1,7 @@
 
 # GCP permissions checker
 
+For the original tool visit https://github.com/exe-cut3/gcp-permissions-checker and https://github.com/egre55/gcp-permissions-checker
 
 <img src="/static/clouds.jpg" width="400" height="400">
 
